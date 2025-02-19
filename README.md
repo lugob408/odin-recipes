@@ -1,0 +1,2 @@
+In this project we will learn how to create a website with recipes that lists various recipes and other things that will
+challenge our html learning. At the end of thi sproject, I hope to have the skills to create my own projects and have a better grasp at using html. 
