@@ -1,0 +1,18 @@
+h1{
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    padding: 50px;
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: auto;
+}
